@@ -79,7 +79,7 @@ const resList = [
       areaName: "Indiranagar",
       costForTwo: "₹250 for two",
       cuisines: ["South Indian", "Beverages", "Desserts"],
-      avgRating: 4.7,
+      avgRating: 3.7,
       parentId: "21001",
       avgRatingString: "4.7",
       totalRatingsString: "5K+",
